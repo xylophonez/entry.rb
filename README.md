@@ -3,9 +3,9 @@
 Example: [xylof.one](http://xylof.one)
 
 ## Setup
-
-1. `sh install.sh`
-2. `./makeit`
+1. `bundle`
+2. `sh install.sh`
+3. `./makeit`
 
 You now have the directories that entry.rb expects on your machine, and - assuming that ~/.local/bin is in your path - can run the `entry` and `generate` commands. If you don't have ~/.local/bin in your path, an alternative is to alias these commands to the paths shown in the `makeit` script.
 
