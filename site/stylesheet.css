@@ -1,0 +1,18 @@
+html {
+	max-width: 600px;
+}
+
+body {
+	background: black;
+	color: lightgray;
+}
+
+
+img {
+	max-width: 100%;
+}
+
+.datestamp {
+    size: 8;
+    color: darkgray;
+}

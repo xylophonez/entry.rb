@@ -1,0 +1,13 @@
+#! /bin/sh
+
+cp entry.rb entry
+cp generate.rb generate
+cp hostit.sh hostit
+
+sudo chmod +x entry
+sudo chmod +x generate
+sudo chmod +x hostit
+
+mv entry $HOME/.local/bin/entry
+mv generate $HOME/.local/bin/generate
+mv hostit $HOME/.local/bin/hostit
