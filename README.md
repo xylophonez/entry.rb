@@ -1,7 +1,5 @@
 # entry.rb - a CLI tool to generate a static blog
 
-Example: [xylof.one](http://xylof.one)
-
 ## Setup
 1. `bundle`
 2. `sh install.sh`
